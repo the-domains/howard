@@ -1,7 +1,7 @@
 name: Howard
 favicon: null
 layout_spectrum: 0.98509
-typography_spectrum: 0.008413094328716397
+typography_spectrum: 0.4369
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0.7767100208438933
   lightness: 0.6940911959391087
-  saturation: 0.07713800412602723
+  saturation: 0.125
   rhythmicContrast: 0.6481103426776826
 purpose: []
